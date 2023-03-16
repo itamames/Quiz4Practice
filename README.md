@@ -2,7 +2,6 @@
 
 1) Which function and collision method is the following using? Write the code that finds the position.
 
-
 ![sort](Sort1.png)
 
 ```java
